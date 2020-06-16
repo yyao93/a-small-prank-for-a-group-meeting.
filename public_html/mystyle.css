@@ -1,0 +1,21 @@
+body {
+    background: #00ccff;
+}
+
+main {
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+h1 {
+    font-family: Comit Sans MS;
+}
+
+input {
+    font-family: Comit Sans MS;
+}
+
+img {
+    width:600px;
+}
