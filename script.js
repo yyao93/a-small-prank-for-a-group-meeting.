@@ -3,7 +3,7 @@ var password = 4238; //Oh no you see this... I should've change the name of the 
 var input = document.getElementById("password");
 
 function myFunction() {
-  alert("Hello");
+  alert("Hello, group!");
   alert("I am doing this because I don't know who can talk today.");
   alert("I mean, if you have something to share, please share it.");
   alert("You are my life saver.");
